@@ -4,7 +4,7 @@ This tutorial is heavily based on the [Colin Raffel](https://github.com/craffel/
 
 ### How to install Theano for Python 3 on Ubuntu or Debian
 
-Follow the [Python 3 for scientific computing installation script](https://github.com/milq/installation-scripts).
+Follow the [Python 3 for scientific computing installation script](https://github.com/milq/scripts-ubuntu-debian).
 
 ### How to run the examples:
 
