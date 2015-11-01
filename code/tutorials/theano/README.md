@@ -8,4 +8,4 @@ Follow the [Python 3 for scientific computing installation script](https://githu
 
 ### How to run the examples:
 
-Simply use ```python3``` and the name of the file. For example: ```python3 00\ -\ Basics.py```.
+Simply use ```python3``` and the name of the file. For example: ```python3 02_logistic_regression.py```.
