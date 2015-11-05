@@ -2,5 +2,5 @@
     - Hello.
 
 
-* [Thresholding](https://en.wikipedia.org/wiki/Thresholding_(image_processing)):
+* [**Thresholding**](https://en.wikipedia.org/wiki/Thresholding_(image_processing)):
     - [Otsu's method](https://en.wikipedia.org/wiki/Otsu%27s_method).
