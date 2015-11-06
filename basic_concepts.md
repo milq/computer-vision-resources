@@ -23,3 +23,4 @@
 | T-point algorithm                     | Unimodal     | Global            | Coudray, N., et al.          | 2010 |     |
 | Maximum deviation algorithm           | Unimodal     | Global            | Rosin, P. L.                 | 2001 |     |
 | Rayleigh distribution model algorithm | Unimodal     | Global            | Voorhees, H., and Poggio, T. | 1987 |     |
+Tsai, D. M.
