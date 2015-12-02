@@ -29,6 +29,12 @@
 | TIP          | Transactions on Image Processing                          | IEEE      |
 | TPAMI        | Transactions on Pattern Analysis and Machine Intelligence | IEEE      |
 
+### Other CV conferences
+
+| Abbreviation | Name of the conference                          | Period   | Publisher |
+|--------------|-------------------------------------------------|----------|-----------|
+| NIPS         | Neural Information Processing Systems           | Annual   |           |
+
 ### Other CV journals
 
 | Abbreviation | Name of the journal                                       | Publisher   |
