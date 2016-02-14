@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 
 import numpy as np
-import scipy.io as sio
+import scipy.io as sio # Submodule to load a GNU Octave/MATLAB file
 
 image = plt.imread('input.png')
 bin_mask = sio.loadmat('mask.mat')['bin_mask'].astype('bool')
