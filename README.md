@@ -6,6 +6,14 @@
 
 ## Conferences and journas of Computer Vision
 
+### Online scientific content
+
+| Publisher | Resource                                      |
+|-----------|-----------------------------------------------|
+| Elsevier  | **[ScienceDirect](http://sciencedirect.com)** |
+| IEEE      | **[IEEE Xplore](http://ieeexplore.ieee.org)** |
+| Springer  | **[SpringerLink](http://link.springer.com)**  |
+
 ### Well-known CV conferences
 
 | Abbreviation | Name of the conference                          | Period   | Publisher |
@@ -42,12 +50,3 @@
 | SP           | Signal Processing                                         | Elsevier    |
 | SPL          | Signal Processing Letters                                 | IEEE Xplore |
 | JVCI         | Journal of Visual Communication and Image Representation  | Elsevier    |
-
-
-### Online scientific content
-
-| Publisher | Resource                                      |
-|-----------|-----------------------------------------------|
-| Elsevier  | **[ScienceDirect](http://sciencedirect.com)** |
-| IEEE      | **[IEEE Xplore](http://ieeexplore.ieee.org)** |
-| Springer  | **[SpringerLink](http://link.springer.com)**  |
