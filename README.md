@@ -1,4 +1,4 @@
-# Computer Vision Resources
+# Computer Vision (CV) Resources
 
 ## Material
 
