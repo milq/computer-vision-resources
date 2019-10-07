@@ -1,10 +1,10 @@
-# Computer Vision (CV) Resources
+# Computer Vision Resources
 
 ## Material
 
 * [Lecture and section notes of Andrew's machine learning course](http://cs229.stanford.edu/materials.html).
 
-## Conferences and journals of Computer Vision
+## Conferences and journals of CV
 
 ### Online scientific content
 
